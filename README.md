@@ -12,7 +12,7 @@
     <a href="https://github.com/CByBB">
          <img src="https://komarev.com/ghpvc/?username=CByBB&label=Profile+Views&color=2563EB&style=for-the-badge" />
     </a>
-    <a href="https://nowpayments.io/donation/stellaray777">
+    <a href="https://nowpayments.io/donation/CodeByBB">
         <img src="https://img.shields.io/badge/Support-NOWPayments-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
     </a>
 </p>
@@ -32,19 +32,19 @@
     &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>Would love help growing</b> the <img src="./emojis/telegram.gif" width="20" valign="middle" alt="telegram" /><a href="https://t.me/+d7wGp8c1q2QwNzM8">DevCollab</a> community on Telegram.
   </li>
   <li>
-    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>Most of my work lives at</b> <a href="https://t.me/StellaShowcase">@StellaShowcase</a>. Side projects and experiments included.
+    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>Most of my work lives at</b> <a href="https://t.me/BB_Showcase">@BB_Showcase</a>. Side projects and experiments included.
   </li>
   <li>
     <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> AI, Python, LLMs, and agent systems.
   </li>
   <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a>. I reply.
+    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/CodeByBB">@CodeByBB</a>. I reply.
   </li>
   <li>
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> My chatbot really hates being insulted.
   </li>
   <li>
-    <img src="./emojis/heart.gif" width="30" valign="middle" alt="folder" /> <b>Support me:</b> star <a href="https://github.com/CByBB/CByBB">this repo</a>, donate on <a href="https://nowpayments.io/donation/stellaray777" target="_blank" rel="noreferrer noopener">NOWPayments</a>.
+    <img src="./emojis/heart.gif" width="30" valign="middle" alt="folder" /> <b>Support me:</b> star <a href="https://github.com/CByBB/CByBB">this repo</a>, donate on <a href="https://nowpayments.io/donation/CodeByBB" target="_blank" rel="noreferrer noopener">NOWPayments</a>.
   </li>
 </ul>
 
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=CByBB&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@CByBB's github-readme-streak-stats"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=CByBB&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=BB’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@CByBB's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
