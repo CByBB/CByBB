@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/CodeByStella?tab=followers">
-        <img src="https://img.shields.io/github/followers/CodeByStella?style=for-the-badge&color=2563EB&logo=github" />
+    <a href="https://github.com/CByBB?tab=followers">
+        <img src="https://img.shields.io/github/followers/CByBB?style=for-the-badge&color=2563EB&logo=github" />
     </a>
-    <a href="https://github.com/CodeByStella?tab=repositories">
-        <img src="https://img.shields.io/github/stars/CodeByStella?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&logo=github" />
+    <a href="https://github.com/CByBB?tab=repositories">
+        <img src="https://img.shields.io/github/stars/CByBB?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&logo=github" />
     </a>
-    <a href="https://github.com/CodeByStella">
-         <img src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile+Views&color=2563EB&style=for-the-badge" />
+    <a href="https://github.com/CByBB">
+         <img src="https://komarev.com/ghpvc/?username=CByBB&label=Profile+Views&color=2563EB&style=for-the-badge" />
     </a>
     <a href="https://nowpayments.io/donation/stellaray777">
         <img src="https://img.shields.io/badge/Support-NOWPayments-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">  
-    <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2" width="98%" alt="CodeByStella"/></a>
+    <a href="https://github.com/CByBB?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CByBB&theme=onestar&no-frame=true&column=6&row=2" width="98%" alt="CByBB"/></a>
 </p>
 
 <ul align="left">
@@ -44,7 +44,7 @@
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> My chatbot really hates being insulted.
   </li>
   <li>
-    <img src="./emojis/heart.gif" width="30" valign="middle" alt="folder" /> <b>Support me:</b> star <a href="https://github.com/CodeByStella/CodeByStella">this repo</a>, donate on <a href="https://nowpayments.io/donation/stellaray777" target="_blank" rel="noreferrer noopener">NOWPayments</a>.
+    <img src="./emojis/heart.gif" width="30" valign="middle" alt="folder" /> <b>Support me:</b> star <a href="https://github.com/CByBB/CByBB">this repo</a>, donate on <a href="https://nowpayments.io/donation/stellaray777" target="_blank" rel="noreferrer noopener">NOWPayments</a>.
   </li>
 </ul>
 
@@ -82,11 +82,11 @@
     <a href="https://roadmap.sh/u/stellaray777">
     <img src="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=ai-engineer%2Cai-agents%2Cprompt-engineering%2Cdevops" width="49.9%"  alt="roadmap.sh"/>
     </a>
-     <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="48.1%" alt="GitHub Stats"/></a>
+     <a href="https://github.com/CByBB?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CByBB&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="48.1%" alt="GitHub Stats"/></a>
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@CodeByStella's github-readme-streak-stats"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=CByBB&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@CByBB's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
