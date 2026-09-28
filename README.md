@@ -29,7 +29,7 @@
     &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>Open to collaborate on</b> AI products, open-source ML, and agent applications with real impact.
   </li>
   <li>
-    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>Would love help growing</b> the <img src="./emojis/telegram.gif" width="20" valign="middle" alt="telegram" /><a href="https://t.me/+d7wGp8c1q2QwNzM8">DevCollab</a> community on Telegram.
+    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>Would love help growing</b> the <img src="./emojis/telegram.gif" width="20" valign="middle" alt="telegram" /><a href="https://t.me/AIAgentHubX">AIAgentHubX</a> community on Telegram.
   </li>
   <li>
     <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>Most of my work lives at</b> <a href="https://t.me/BB_Showcase">@BB_Showcase</a>. Side projects and experiments included.
