@@ -38,7 +38,7 @@
     <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> AI, Python, LLMs, and agent systems.
   </li>
   <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/CodeByBB">@CodeByBB</a>. I reply.
+    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/BB_hub">@BB_hub</a>. I reply.
   </li>
   <li>
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> My chatbot really hates being insulted.
