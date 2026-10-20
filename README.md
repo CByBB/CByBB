@@ -82,9 +82,9 @@
      <a href="https://github.com/CByBB?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CByBB&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="48.1%" alt="GitHub Stats"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CByBB&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=BB’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@CByBB's github-readme-streak-stats"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="98%" />
