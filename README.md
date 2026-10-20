@@ -9,9 +9,6 @@
     <a href="https://github.com/CByBB?tab=repositories">
         <img src="https://img.shields.io/github/stars/CByBB?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&logo=github" />
     </a>
-    <a href="https://github.com/CByBB">
-         <img src="https://komarev.com/ghpvc/?username=CByBB&label=Profile+Views&color=2563EB&style=for-the-badge" />
-    </a>
     <a href="https://nowpayments.io/donation/CodeByBB">
         <img src="https://img.shields.io/badge/Support-NOWPayments-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
     </a>
